@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "diziler", "diziler\diziler.csproj", "{6CF3BC3D-7D7D-426B-9DB2-67B60C67917E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metotlar", "metotlar\metotlar.csproj", "{52A40F2D-1B6E-464A-BB87-51D0FE281F3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CF3BC3D-7D7D-426B-9DB2-67B60C67917E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CF3BC3D-7D7D-426B-9DB2-67B60C67917E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CF3BC3D-7D7D-426B-9DB2-67B60C67917E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CF3BC3D-7D7D-426B-9DB2-67B60C67917E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52A40F2D-1B6E-464A-BB87-51D0FE281F3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52A40F2D-1B6E-464A-BB87-51D0FE281F3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52A40F2D-1B6E-464A-BB87-51D0FE281F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52A40F2D-1B6E-464A-BB87-51D0FE281F3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

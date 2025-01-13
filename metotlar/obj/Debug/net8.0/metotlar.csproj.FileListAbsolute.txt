@@ -1,0 +1,14 @@
+/Users/merpassenger/RiderProjects/ c-hashtag-project/metotlar/bin/Debug/net8.0/metotlar
+/Users/merpassenger/RiderProjects/ c-hashtag-project/metotlar/bin/Debug/net8.0/metotlar.deps.json
+/Users/merpassenger/RiderProjects/ c-hashtag-project/metotlar/bin/Debug/net8.0/metotlar.runtimeconfig.json
+/Users/merpassenger/RiderProjects/ c-hashtag-project/metotlar/bin/Debug/net8.0/metotlar.dll
+/Users/merpassenger/RiderProjects/ c-hashtag-project/metotlar/bin/Debug/net8.0/metotlar.pdb
+/Users/merpassenger/RiderProjects/ c-hashtag-project/metotlar/obj/Debug/net8.0/metotlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merpassenger/RiderProjects/ c-hashtag-project/metotlar/obj/Debug/net8.0/metotlar.AssemblyInfoInputs.cache
+/Users/merpassenger/RiderProjects/ c-hashtag-project/metotlar/obj/Debug/net8.0/metotlar.AssemblyInfo.cs
+/Users/merpassenger/RiderProjects/ c-hashtag-project/metotlar/obj/Debug/net8.0/metotlar.csproj.CoreCompileInputs.cache
+/Users/merpassenger/RiderProjects/ c-hashtag-project/metotlar/obj/Debug/net8.0/metotlar.dll
+/Users/merpassenger/RiderProjects/ c-hashtag-project/metotlar/obj/Debug/net8.0/refint/metotlar.dll
+/Users/merpassenger/RiderProjects/ c-hashtag-project/metotlar/obj/Debug/net8.0/metotlar.pdb
+/Users/merpassenger/RiderProjects/ c-hashtag-project/metotlar/obj/Debug/net8.0/metotlar.genruntimeconfig.cache
+/Users/merpassenger/RiderProjects/ c-hashtag-project/metotlar/obj/Debug/net8.0/ref/metotlar.dll
