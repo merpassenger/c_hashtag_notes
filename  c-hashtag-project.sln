@@ -1,12 +1,16 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrays", "arrays\arrays.csproj", "{6CF3BC3D-7D7D-426B-9DB2-67B60C67917E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj", "{6CF3BC3D-7D7D-426B-9DB2-67B60C67917E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "methods", "methods\methods.csproj", "{52A40F2D-1B6E-464A-BB87-51D0FE281F3C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method", "Method\Method.csproj", "{52A40F2D-1B6E-464A-BB87-51D0FE281F3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classes", "classes\classes.csproj", "{7279F780-2203-4F98-A384-38B2558AB8D6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class", "Class\Class.csproj", "{7279F780-2203-4F98-A384-38B2558AB8D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interfaces", "interfaces\interfaces.csproj", "{6212BA8B-5F39-4757-8B11-987A50C23BDA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{6212BA8B-5F39-4757-8B11-987A50C23BDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{B3D9DCED-0E34-4721-97D2-3219AE0BE01D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClass", "AbstractClass\AbstractClass.csproj", "{154B60B9-B33D-4F3D-A59F-0C433E8BD664}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -30,5 +34,13 @@ Global
 		{6212BA8B-5F39-4757-8B11-987A50C23BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6212BA8B-5F39-4757-8B11-987A50C23BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6212BA8B-5F39-4757-8B11-987A50C23BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3D9DCED-0E34-4721-97D2-3219AE0BE01D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3D9DCED-0E34-4721-97D2-3219AE0BE01D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3D9DCED-0E34-4721-97D2-3219AE0BE01D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3D9DCED-0E34-4721-97D2-3219AE0BE01D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{154B60B9-B33D-4F3D-A59F-0C433E8BD664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{154B60B9-B33D-4F3D-A59F-0C433E8BD664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{154B60B9-B33D-4F3D-A59F-0C433E8BD664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{154B60B9-B33D-4F3D-A59F-0C433E8BD664}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
