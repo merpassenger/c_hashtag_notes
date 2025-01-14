@@ -1,4 +1,4 @@
-﻿//Main metot -> Programın ilk çalıştığı metottur, diğer metotlardan farkı ise metotlar çağrılmadan çalışmazken main metodu buid alındığı anda çalıştırırlır 
+﻿//Main metot -> Programın ilk çalıştığı metottur, diğer metotlardan farkı ise methods çağrılmadan çalışmazken main metodu buid alındığı anda çalıştırırlır 
 
 /*
  * Kodların daha düzenli olmasını sağlar
@@ -75,7 +75,7 @@ Method.Login(user);
 
 
 /*
- * Recursive metotlar
+ * Recursive methods
  */
 
 int recursiveSum = Method.RecursiveSum(9);

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/merpassenger/RiderProjects/ c-hashtag-project/diziler/diziler.csproj",
-      "projectName": "diziler",
-      "projectPath": "/Users/merpassenger/RiderProjects/ c-hashtag-project/diziler/diziler.csproj",
+      "projectUniqueName": "/Users/merpassenger/RiderProjects/ c-hashtag-project/arrays/arrays.csproj",
+      "projectName": "arrays",
+      "projectPath": "/Users/merpassenger/RiderProjects/ c-hashtag-project/arrays/arrays.csproj",
       "packagesPath": "/Users/merpassenger/.nuget/packages/",
-      "outputPath": "/Users/merpassenger/RiderProjects/ c-hashtag-project/diziler/obj/",
+      "outputPath": "/Users/merpassenger/RiderProjects/ c-hashtag-project/arrays/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/merpassenger/.nuget/NuGet/NuGet.Config"

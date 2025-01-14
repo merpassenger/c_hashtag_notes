@@ -1,6 +1,6 @@
 ﻿/*
  * Nedir ??
- Birden çok aynı tipte veriye ihtiyaç duyuyorsak eğer diziler kullanılır.
+ Birden çok aynı tipte veriye ihtiyaç duyuyorsak eğer arrays kullanılır.
  
 */
 
@@ -32,9 +32,9 @@ numbers[2] = 78;
 /*
 Çok Boyutlu Diziler : kaç boyutlu olacak(n) n-1 virgül eklenmeli 
 
-Çok boyutlu diziler belirli türdeki verileri mantıklı ve düzenli bir şekilde temsil etmek için kullanılır.
+Çok boyutlu arrays belirli türdeki verileri mantıklı ve düzenli bir şekilde temsil etmek için kullanılır.
 1. Veri Tablosu Temsili: 
-        İki boyutlu diziler, satır ve sütunlarla ifade edilen tablo benzeri verileri saklamak için idealdir.
+        İki boyutlu arrays, satır ve sütunlarla ifade edilen tablo benzeri verileri saklamak için idealdir.
         
 2. Matris İşlemleri:
        Matematiksel matris işlemleri (çarpma, toplama vb.) yapmak için kullanılır. Bilimsel hesaplamalar ve makine öğrenimi algoritmalarında matris işlemleri sıkça yer alır.
@@ -42,7 +42,7 @@ numbers[2] = 78;
 3. Koordinat Sistemi veya Harita
 
 4. Görüntü İşleme:
-    Görüntüler genellikle piksel değerlerini temsil eden iki boyutlu diziler olarak saklanır. Renkli görüntülerde ise üç boyutlu diziler (satır, sütun, renk kanalı) kullanılabilir.
+    Görüntüler genellikle piksel değerlerini temsil eden iki boyutlu arrays olarak saklanır. Renkli görüntülerde ise üç boyutlu arrays (satır, sütun, renk kanalı) kullanılabilir.
 
 5. Zaman Serisi veya Çoklu Veri Setleri
 */
