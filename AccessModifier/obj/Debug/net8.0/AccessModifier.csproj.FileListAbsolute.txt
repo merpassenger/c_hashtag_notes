@@ -1,0 +1,15 @@
+/Users/merpassenger/RiderProjects/ c-hashtag-project/AccessModifier/bin/Debug/net8.0/AccessModifier
+/Users/merpassenger/RiderProjects/ c-hashtag-project/AccessModifier/bin/Debug/net8.0/AccessModifier.deps.json
+/Users/merpassenger/RiderProjects/ c-hashtag-project/AccessModifier/bin/Debug/net8.0/AccessModifier.runtimeconfig.json
+/Users/merpassenger/RiderProjects/ c-hashtag-project/AccessModifier/bin/Debug/net8.0/AccessModifier.dll
+/Users/merpassenger/RiderProjects/ c-hashtag-project/AccessModifier/bin/Debug/net8.0/AccessModifier.pdb
+/Users/merpassenger/RiderProjects/ c-hashtag-project/AccessModifier/obj/Debug/net8.0/AccessModifier.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merpassenger/RiderProjects/ c-hashtag-project/AccessModifier/obj/Debug/net8.0/AccessModifier.AssemblyInfoInputs.cache
+/Users/merpassenger/RiderProjects/ c-hashtag-project/AccessModifier/obj/Debug/net8.0/AccessModifier.AssemblyInfo.cs
+/Users/merpassenger/RiderProjects/ c-hashtag-project/AccessModifier/obj/Debug/net8.0/AccessModifier.csproj.CoreCompileInputs.cache
+/Users/merpassenger/RiderProjects/ c-hashtag-project/AccessModifier/obj/Debug/net8.0/AccessModifier.sourcelink.json
+/Users/merpassenger/RiderProjects/ c-hashtag-project/AccessModifier/obj/Debug/net8.0/AccessModifier.dll
+/Users/merpassenger/RiderProjects/ c-hashtag-project/AccessModifier/obj/Debug/net8.0/refint/AccessModifier.dll
+/Users/merpassenger/RiderProjects/ c-hashtag-project/AccessModifier/obj/Debug/net8.0/AccessModifier.pdb
+/Users/merpassenger/RiderProjects/ c-hashtag-project/AccessModifier/obj/Debug/net8.0/AccessModifier.genruntimeconfig.cache
+/Users/merpassenger/RiderProjects/ c-hashtag-project/AccessModifier/obj/Debug/net8.0/ref/AccessModifier.dll
