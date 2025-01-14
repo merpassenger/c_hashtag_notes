@@ -12,3 +12,4 @@
 /Users/merpassenger/RiderProjects/ c-hashtag-project/metotlar/obj/Debug/net8.0/metotlar.pdb
 /Users/merpassenger/RiderProjects/ c-hashtag-project/metotlar/obj/Debug/net8.0/metotlar.genruntimeconfig.cache
 /Users/merpassenger/RiderProjects/ c-hashtag-project/metotlar/obj/Debug/net8.0/ref/metotlar.dll
+/Users/merpassenger/RiderProjects/ c-hashtag-project/metotlar/obj/Debug/net8.0/metotlar.sourcelink.json
